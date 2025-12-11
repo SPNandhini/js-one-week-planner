@@ -6,4 +6,4 @@ switch (day) {
     default:
         console.log("hoo!!");
         break;
-}
+};
